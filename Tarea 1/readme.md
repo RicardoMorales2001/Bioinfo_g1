@@ -16,5 +16,8 @@
 -   Git
 -   Python
 -   R
+
+
+
 ## INFORMACIÓN ADICIONAL
 <https://bioinfotraining.bio.cam.ac.uk>
