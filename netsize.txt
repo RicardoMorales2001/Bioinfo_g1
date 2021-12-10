@@ -1,0 +1,3 @@
+Nombre=n41.txt
+Filas=12
+Columnas=20
