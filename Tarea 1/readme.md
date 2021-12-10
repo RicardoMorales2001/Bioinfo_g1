@@ -1,6 +1,6 @@
 #   BIOINFORMÁTICA GRUPO 1
 
-##PRESENTACIONES 
+## PRESENTACIONES 
 
 - Introducción
 -   Moléculas biologicas
@@ -10,7 +10,7 @@
 - Python
 - R
 
-##VIDEOS DE SESIONES SINCRÓNICAS
+## VIDEOS DE SESIONES SINCRÓNICAS
 
 ## INFORMACIÓN ADICIONAL
 <https://bioinfotraining.bio.cam.ac.uk>
