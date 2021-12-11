@@ -13,6 +13,10 @@ fila=$(wc -l < n41.txt)
 #tr -d "\n" se lo utiliza con la finalidad de crear una línea nueva. Finalmente usamos
 #wc -c para imprimir el número de caracteres.
 columna=$(head -n 1 n41.txt |tr -d " "| tr -d "\n"| wc -c)
+# El comando echo se lo utiliza para imprimir algo en específico que se encuentra en las comillas
+# y se usa > para guardar el archivo, mientras que el comando >> se lo usa para guardar
+# mientras ../ se usa para recorrer en los directorios, finalmente se usa el comando
+#cat para imprimir lo que se encuentra en el archivo de interés
 echo "Nombre=$numero" > ../../../netsize.txt
 echo "Filas=$fila" >> ../../../netsize.txt
 echo "Columnas=$columna" >> ../../../netsize.txt
