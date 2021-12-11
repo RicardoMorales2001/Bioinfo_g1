@@ -1,3 +1,4 @@
+![logotipoikiam](https://github.com/RicardoMorales2001/Bioinfo_g1/blob/main/Tarea%201/logotipoIkiam.png)
 # TAREA 1
 ## Ejercicio 1.10.3
 Saavedra y Stouffer estudiaron varias redes tipo planta-polinizador.
