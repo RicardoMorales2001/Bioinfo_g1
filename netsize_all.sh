@@ -4,6 +4,6 @@
 datos=*.txt
 #Usamos el comando echo para imprimir la variable.
 echo $datos
-# Se realiza el uso del codigo para crear bucles con la implementacion del
-# código que se creo en la primera parte.
+# Se realiza el uso del código para crear bucles con la implementación del
+# código que se creó en la primera parte.
 for a in $datos; do fila=$(wc -l $a); columna=$(head -n 1 $a | tr -d ' ' | tr -d '\n' | wc -c); echo $a $fila $columna  >> ../../../../netsize_all.txt; done
