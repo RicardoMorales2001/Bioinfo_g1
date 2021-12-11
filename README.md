@@ -15,4 +15,4 @@ La data de Saavedra y Stouffer se lo puede encontrar en el directorio: CSB/CSB/u
 - Procesador Intel(R) Core(TM) i5-8250u
 - RAM de 8 GB
 - Sistema operativo de 64 bits
-:sunglasses:
+:sunglasses: 
